@@ -13,6 +13,6 @@ Replace the API key with your own API key throughout the code.
 
 The data set name 'Dataset.xlsx' consists of only manually collected information corresponding to each data point.
 
-**Master data:** Dataset - only extracted metadata.xlsx 
+**Master data (consisting of data extracted using API key and manually):** Dataset - only extracted metadata.xlsx 
 
 **Processed and Final data:** Like-View ratio dataset with extracted data(1).xlsx
